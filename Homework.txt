@@ -1,0 +1,7 @@
+Hi, my name is Aaryan Magnani (21BME0292).
+Will it be possible to have a clarification session for the following topics? - 
+1) Git reset and hard reset (explanation and procedure)
+2) Uploading local repository to remote repository 
+3) Git push link creation 
+4) Error resolution 
+Thank you! 
